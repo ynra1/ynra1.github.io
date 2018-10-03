@@ -158,7 +158,7 @@ Screen - Game
    background-image: url('../assets/sky.png');
    background-repeat: repeat-x;
    background-position: 0px 100%;
-   background-color: purple;
+   background-color:#390738;
    
    -webkit-animation: animSky 200s linear infinite;
    animation: animSky 200s linear infinite;
